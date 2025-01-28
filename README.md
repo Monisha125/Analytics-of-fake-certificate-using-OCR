@@ -10,7 +10,7 @@ This project uses Optical Character Recognition (OCR) to analyze and detect fake
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fake-certificate-analytics.git
+   git clone https://github.com/Monisha125/fake-certificate-analytics.git
 2.Install dependencies:
 bash
 Copy code
